@@ -11,6 +11,13 @@ Put `eclipse_phone` in your resources folder.
 Ensure `eclipse_phone` in your server cfg.
 Insert sql dump(take in `eclipse_phone`) in your db.
 
+
+
+For change button id use this: 
+D:\projects\gta5\marketplace\eclipse_phone\Phone\Phone\NuiController.cs
+![image](https://user-images.githubusercontent.com/36680471/118033010-f9960680-b370-11eb-94f4-f6fc78697935.png)
+
+
 Start your server.
 
 For more questions douglasprod#6686 && https://discord.gg/4TJSZF4AWH
