@@ -8,8 +8,8 @@
 
 ## Installation:
 Put `eclipse_phone` in your resources folder.
-Ensure `eclipse_phone` in your server cfg
-Insert sql dump(take in `eclipse_phone`) in your db;
+Ensure `eclipse_phone` in your server cfg.
+Insert sql dump(take in `eclipse_phone`) in your db.
 
 Start your server.
 
