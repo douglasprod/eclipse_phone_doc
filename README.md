@@ -13,7 +13,7 @@ Insert sql dump(take in `eclipse_phone`) in your db.
 
 Start your server.
 
-For more questions https://discord.gg/4TJSZF4AWH
+For more questions douglasprod#6686 && https://discord.gg/4TJSZF4AWH
 
 
 
